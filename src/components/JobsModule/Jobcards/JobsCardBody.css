@@ -1,0 +1,79 @@
+.job-cards-childs {
+  width: 100%;
+  height: 50px;
+  /* border: 1px solid red; */
+  display: flex;
+  border-radius: 10px;
+  /* border: 1px solid #7e858e; */
+}
+.job-search {
+  width: 400px;
+  height: 50px;
+  font-size: 20px;
+  padding-left: 30px;
+  color: white;
+  outline: none;
+  /* height: 5vh; */
+  background-color: transparent;
+  /* border: 1px solid #7e858e; */
+}
+.BsSearch {
+  width: 80px;
+  height: 50px;
+  background-color: #535557;
+  /* border: 1px solid pink; */
+  display: flex;
+  /* border-radius: 10px; */
+  justify-content: center;
+  align-items: center;
+}
+.job-cards-childs-cards {
+  width: 100%;
+  height: auto;
+  /* border: 1px solid red; */
+  border-radius: 20px;
+  background-color: #202020;
+  display: flex;
+}
+.job-cards-childs-one {
+  width: 95%;
+  margin: 0 auto;
+  height: auto;
+  /* border: 1px solid yellowgreen; */
+}
+.job-card-profile {
+  width: 70px;
+  height: 70px;
+  /* border: 1px solid red; */
+  border-radius: 10px;
+}
+.don {
+  color: yellow;
+}
+.Location-place {
+  font-size: 25px;
+  color: rgb(220, 214, 214);
+  font-family: "Roboto";
+}
+.jobs-location-type {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+/* .antag {
+  text-decoration: none;
+  color: none;
+  
+} */
+.antag:hover,
+.antag {
+  text-decoration: none;
+  color: white;
+}
+.spinner-div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

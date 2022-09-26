@@ -1,0 +1,28 @@
+.Navbar-parent {
+  width: 100%;
+  height: 8vh;
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #202020;
+}
+.Navbar-children {
+  width: 90%;
+  height: 6vh;
+  /* border: 1px solid green; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.home-item {
+  text-decoration: none;
+  font-size: 30px;
+  margin-right: 20px;
+  color: #cbd5e1;
+}
+.home-item:hover {
+  text-decoration: none;
+  color: #cbd5e1;
+}

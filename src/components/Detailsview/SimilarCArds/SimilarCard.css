@@ -1,0 +1,30 @@
+.similar-jobs-div {
+  width: 23%;
+  height: auto;
+  border: 1px solid gray;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin-right: 5%;
+  background-color: hsl(0, 0%, 13%);
+}
+.similar-jobs-child {
+  width: 95%;
+  height: auto;
+  padding-right: 5%;
+  /* border: 1px solid rebeccapurple; */
+}
+.don {
+  color: yellow;
+}
+.logimage {
+  width: 90px;
+  height: 90px;
+}
+.similar-text {
+  text-align: justify;
+  font-size: 20px;
+  color: rgb(217, 210, 210);
+}

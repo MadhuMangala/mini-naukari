@@ -1,0 +1,69 @@
+.sidebarleft-div {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebarleftchild-div {
+  width: 90%;
+  height: auto;
+  /* border: 1px solid pink; */
+}
+.top-card-div {
+  width: 100%;
+  height: auto;
+  /* border: 1px solid red; */
+  box-sizing: border-box;
+  border-radius: 10px;
+  background-image: url("https://assets.ccbp.in/frontend/react-js/profile-bg.png");
+  background-position: center;
+  background-size: cover;
+}
+.top-card-div-items {
+  width: 100%;
+  height: auto;
+  /* border: 1px solid rebeccapurple; */
+  padding: 15px;
+}
+.top-card-profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-color: red;
+}
+.top-card-name-text {
+  color: #6366f1;
+}
+.top-card-description-text {
+  color: #7e858e;
+  font-size: 25px;
+}
+.horizontal-line {
+  border: 1px solid rgb(150, 144, 144);
+  width: 100%;
+  color: white;
+}
+.typeofEmp-div {
+  width: 100%;
+  height: auto;
+  /* border: 1px solid red; */
+  padding: 5px;
+}
+.typeofEmp-child-div {
+  width: 90%;
+}
+.check-box-name {
+  width: 20px;
+  height: 20px;
+}
+.typeofEmp-child-div-label {
+  /* border: 1px solid red; */
+  display: flex;
+  align-items: center;
+}
+.label-name {
+  font-size: 15px;
+  font-family: "Roboto";
+}

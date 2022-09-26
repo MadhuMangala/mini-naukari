@@ -1,0 +1,33 @@
+.card-one-skills {
+  width: 25%;
+  height: auto;
+  /* border: 1px solid white; */
+  margin: 2%;
+  display: flex;
+  align-items: center;
+}
+.skills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.skills-image {
+  width: 20%;
+  /* height: 70%; */
+}
+.life-text {
+  width: 60%;
+  height: 300px;
+  /* border: 1px solid red; */
+}
+.text-life-para {
+  font-size: 25px;
+  margin-top: 10px;
+  text-align: justify;
+}
+.image-div {
+  width: 30%;
+  height: 350px;
+  margin-left: 7%;
+  /* border: 1px solid red; */
+}

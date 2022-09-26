@@ -1,0 +1,36 @@
+.sidebar-div {
+  width: 25%;
+  height: auto;
+  /* border: 1px solid white; */
+}
+.jobcards-div {
+  width: 70%;
+  height: auto;
+  /* border: 1px solid green; */
+  margin-left: 5%;
+}
+.sidebarandjobcards-child {
+  width: 90%;
+  height: auto;
+  /* border: 1px solid yellowgreen; */
+}
+.sidebarandjobcards {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+
+  color: white;
+}
+.Module-collector {
+  background-color: #121212;
+}
+/* .horizontal-line {
+  border: 1px solid rgb(119, 115, 115);
+  width: 100%;
+  color: white;
+} */
+.dis-text {
+  font-size: 20px;
+  color: rgb(221, 211, 211);
+}
